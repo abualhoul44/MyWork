@@ -1,2 +1,5 @@
 # MyWork
-cvvv
+#!/usr/bin/env python
+#Hello program
+
+print ""Hello"
